@@ -1,43 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="48a44c6f-09a5-468b-aae1-ad43f9b6a1b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/djangozad.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/about/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/about/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/about/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/about/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/about/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/about/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/about/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/catalog/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/catalog/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/catalog/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/catalog/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/catalog/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/catalog/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/catalog/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/homepage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/homepage/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/homepage/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/homepage/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/homepage/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/homepage/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/homepage/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/lyceum/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/lyceum/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/lyceum/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/lyceum/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/lyceum/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lyceum/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lyceum/lyceum/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/lyceum/lyceum/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +34,7 @@
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
